@@ -2,7 +2,7 @@
 
 My name is Samantha Cabano. 
 
-![My Photo](https://github.com/samcabano/cabano-profile/blob/master/Portfolio_img.jpg)
+![](portfolio.jpg)
 
 Insert hyperlink...
 
