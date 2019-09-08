@@ -2,7 +2,7 @@
 
 My name is Samantha Cabano. 
 
-!(src="Portfolio_img.jpg")
+![My Photo](src="Portfolio_img.jpg")
 
 Insert hyperlink...
 
