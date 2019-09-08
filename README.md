@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Samantha Cabano... insert introduction here
+My name is Samantha Cabano. 
 
 ![Image of me](https://github.com/samcabano/cabano-profile/blob/master/Portfolio_img.jpg)
 
