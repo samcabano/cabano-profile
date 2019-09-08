@@ -3,7 +3,7 @@
 My name is Samantha Cabano... insert introduction here
 
 ![Image of me]
-(Portfolio_img.jpg)
+(https://github.com/samcabano/cabano-profile/blob/master/Portfolio_img.jpg)
 
 Insert hyperlink...
 
