@@ -2,7 +2,8 @@
 
 My name is Samantha Cabano... insert introduction here
 
-Insert image of me...
+![Image of me]
+(https://drive.google.com/uc?id=1YBX7trge-nVzjcWEXAtT60xmqvBHAq4S)
 
 Insert hyperlink...
 
