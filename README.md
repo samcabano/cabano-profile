@@ -23,7 +23,7 @@ Something interesting about myself...
 ### Computer Experience
 
 ```markdown
-# Programming Experience:**
+# Programming Experience:
 - A lot, actually...
 ```
 
