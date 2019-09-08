@@ -13,26 +13,25 @@ Something interesting about myself...
 ### College Experience
 
 ```markdown
-**UCSD**
+# UCSD
 - Cognitive Science
 
-**Sierra College**
+# Sierra College
 - Pre-health
 ```
 
 ### Computer Experience
 
 ```markdown
-
-**Programming Experience:**
+# Programming Experience:**
 - A lot, actually...
 ```
 
 ### Why Python?
 
 ```markdown
-**Why I am taking Python for Many Uses**
+# Why I am taking Python for Many Uses
 
-**What might prevent me from doing well in this class?**
+# What might prevent me from doing well in this class?
 
 ```
