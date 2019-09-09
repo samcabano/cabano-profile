@@ -1,6 +1,10 @@
 ## Hello!
 My name is Samantha Cabano. 
+
 ![](portfolio.jpg)
+
+<img src="portfolio.jpg" class="center">
+
 Insert hyperlink...
 Most important thing in my life...
 Something interesting about myself...
