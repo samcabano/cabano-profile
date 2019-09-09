@@ -13,7 +13,8 @@ Something interesting about myself...
 - Psychology Minor
 
 #### University College Cork, Ireland
-- Human Development and Human-Computer Interaction
+- Human Development
+- Human-Computer Interaction
 
 #### Sierra College
 - Pre-med Requirements
@@ -31,4 +32,5 @@ Something interesting about myself...
 
 ## Python
 #### Why I am taking Python for Many Uses
-What might prevent me from doing well in this class...
+- Because...
+- What might prevent me from doing well in this class...
