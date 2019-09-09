@@ -22,7 +22,6 @@ An interesting thing about me is I love travelling, cats, and coffee!
     - Data Analysis
     - Neurology
 - Psychology Minor
-- Interned in Speech Pathology and Counselling
 
 ###### University College Cork, Ireland
 - Human Development
