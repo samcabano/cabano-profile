@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="portfolio.jpg" align="right" style="padding: 10px"> My name Sam! I am a student and healthcare worker with a passion for health, research, human-computer interaction, and computers. 
+<img src="portfolio.jpg" align="right" style="padding: 10px"> First off, you can call me Sam! I am a student and healthcare worker with a passion for health, research, human-computer interaction, and computers. 
 
 The most important thing in my life is improving myself and the daily lives of those around me, by means of education and encouragement. 
 
