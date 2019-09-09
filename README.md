@@ -25,6 +25,8 @@ An interesting thing about me is I love travelling, cats, and coffee!
 - Pre-med Requirements
 
 ## Computer Experience
+
+<img src="comp.png" align="left" style="padding: 10px">
 #### Coursework
 - Introduction to Programming
   - C++
