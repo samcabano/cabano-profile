@@ -14,16 +14,16 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 <img src="UCSD.jpg" align="right" style="padding: 10px">
 
-#### UC San Diego
+###### UC San Diego
 - Cognitive Science, BS
 - Psychology Minor
 - Speech Pathology & Counselling Intern
 
-#### University College Cork, Ireland
+###### University College Cork, Ireland
 - Human Development
 - Human-Computer Interaction
 
-#### Sierra College
+###### Sierra College
 - Pre-med Requirements
 
 ## Computer Experience
