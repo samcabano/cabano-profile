@@ -33,9 +33,12 @@ An interesting thing about me is I love travelling, cats, and coffee!
 - Introduction to Programming
   - C++
   - MATLAB
+  
 - Usability and Information Architecture
   - HTML and web-design
+  
 - Modeling and Data Analysis
+
 - Microsoft Excel
 
 ## IT75 - Python for Many Uses
