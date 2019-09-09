@@ -32,16 +32,16 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 #### Coursework
 
-- Introduction to Programming
-  - C++
-  - MATLAB
+  - Introduction to Programming
+    - C++
+    - MATLAB
   
-- Usability and Information Architecture
-  - HTML and web-design
+  - Usability and Information Architecture
+    - HTML and web-design
   
-- Modeling and Data Analysis
+  - Modeling and Data Analysis
 
-- Microsoft Excel
+  - Microsoft Excel
 
 ## IT75 - Python for Many Uses
 I am taking this class because Python is a popular programming language in many of the research labs in the Cognitive Science field. While my primary goal is to become a healthcare provider, I understand people change their careers on an average of 7 times in their life! Also, I love learning new things, and enjoy computer programming. This class will be a nice break from chemistry and biology.
