@@ -1,8 +1,6 @@
 ## Hello!
 My name is Samantha Cabano. 
 
-![](portfolio.jpg)
-
 <img src="portfolio.jpg" align="center">
 
 Insert hyperlink...
