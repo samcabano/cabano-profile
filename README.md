@@ -31,7 +31,7 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Computer Experience
 
-<img src="comp.png" align="left" margin= 50px padding= 30px>
+<img src="comp.png" align="left">
 
 #### Coursework
 
