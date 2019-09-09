@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="portfolio.jpg" align="left" margin= 10px> 
+<img src="portfolio.jpg" align="left" margin= 30px> 
 
 First off, you can call me Sam! I am a student and healthcare worker with a passion for health, research, and human-computer interaction. 
 
@@ -14,7 +14,7 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Education
 
-<img src="UCSD.jpg" align="right" margin= 10px>
+<img src="UCSD.jpg" align="right" margin= 30px>
 
 ###### UC San Diego
 - Cognitive Science, BS
@@ -31,7 +31,7 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Computer Experience
 
-<img src="comp.png" align="left">
+<img src="comp.png" align="left" style="margin: 30px">
 
 #### Coursework
 
