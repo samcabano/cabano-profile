@@ -1,18 +1,13 @@
-## Hello!
-My name is Samantha Cabano. 
+## Who I Am
+###### I am a student and healthcare worker with a passion for health, research, art, human-computer interaction, and computer programming. The most important thing in my life is improving myself and the daily lives of those around me by means of education and encouragement. I pride myself on the energy and dedication I bring to each new project I take on, regardless of the field. An interesting thing about me is I love travelling, cats, and coffee!
 
 <img src="portfolio.jpg" class="center">
-
-Insert hyperlink...
-Most important thing in my life...
-Something interesting about myself...
 
 ## College Experience
 
 #### University of California, San Diego
-> Cognitive Science, BS
-
-> Psychology Minor
+- Cognitive Science, BS
+- Psychology Minor
 
 #### University College Cork, Ireland
 - Human Development
