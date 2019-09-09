@@ -54,8 +54,8 @@ I honestly believe there is not much that will prevent me from doing well in thi
 
 ### Projects
 
-1. [Fundamentals of Programming in Python](https://samcabano.github.io/python_fundamentals/)
-2. [Internet of Things](https://samcabano.github.io/IoT/)
-3. [Secure Scripting](https://samcabano.github.io/secure_scripting/)
-4. [Data Analytics](https://samcabano.github.io/data_analytics/)
-5. [Python Hackathon](https://samcabano.github.io/python_hackathon/)
+## 1. [Fundamentals of Programming in Python](https://samcabano.github.io/python_fundamentals/)
+## 2. [Internet of Things](https://samcabano.github.io/IoT/)
+## 3. [Secure Scripting](https://samcabano.github.io/secure_scripting/)
+## 4. [Data Analytics](https://samcabano.github.io/data_analytics/)
+## 5. [Python Hackathon](https://samcabano.github.io/python_hackathon/)
