@@ -31,16 +31,16 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Computer Experience
 
-<img src="comp.png" align="left" margin= 50px>
+<img src="comp.png" align="left" margin= 50px padding= 30px>
 
 #### Coursework
 
 ###### Introduction to Programming
-- C++
-- MATLAB
+    - C++
+    - MATLAB
 
 ###### Usability and Information Architecture
-- HTML and web-design
+    - HTML and web-design
 
 ###### Modeling and Data Analysis
 
