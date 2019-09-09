@@ -18,8 +18,9 @@
 
 ###### UC San Diego
 - Cognitive Science, BS
+    - Focus: Human-Computer Interaction, Data Analysis and Research, Neurology
 - Psychology Minor
-- Speech Pathology & Counselling Intern
+- Interned in Speech Pathology and Counselling
 
 ###### University College Cork, Ireland
 - Human Development
