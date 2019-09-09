@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="portfolio.jpg" align="left" margin: 10px> 
+<img src="portfolio.jpg" align="left" margin= 10px> 
 
 First off, you can call me Sam! I am a student and healthcare worker with a passion for health, research, and human-computer interaction. 
 
