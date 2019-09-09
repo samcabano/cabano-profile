@@ -12,7 +12,6 @@ Something interesting about myself...
 
 ### College Experience
 
-```markdown
 # UCSD
 Major: Cognitive Science
 Minor: Psychology
@@ -22,11 +21,10 @@ Focus: Human Development and Human-Computer Interaction
 
 # Sierra College
 - Pre-health
-```
+
 
 ### Computer Experience
 
-```markdown
 # Programming Experience
 I have taken classes in the following topics:
 - Introduction to Programming
@@ -37,13 +35,10 @@ I have taken classes in the following topics:
 - Modeling and Data Analysis
   - Utilized MATLAB for data management and analysis
 - Microsoft Excel
-```
+
 
 ### Python
 
-```markdown
 # Why I am taking Python for Many Uses
 
 What might prevent me from doing well in this class
-
-```
