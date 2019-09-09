@@ -17,11 +17,11 @@ An interesting thing about me is I love travelling, cats, and coffee!
 <img src="UCSD.jpg" align="right" style="margin: 10px">
 
 ###### UC San Diego
+- Psychology, Minor
 - Cognitive Science, BS
     - Human-Computer Interaction
     - Data Analysis
     - Neurology
-- Psychology Minor
 
 ###### University College Cork, Ireland
 - Human Development
