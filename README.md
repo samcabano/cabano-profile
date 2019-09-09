@@ -23,7 +23,6 @@ An interesting thing about me is I love travelling, cats, and coffee!
 #### Sierra College
 - Pre-med Requirements
 
-
 ## Computer Experience
 #### Coursework
 - Introduction to Programming
@@ -34,7 +33,7 @@ An interesting thing about me is I love travelling, cats, and coffee!
 - Modeling and Data Analysis
 - Microsoft Excel
 
-## Python
-#### Why I am taking Python for Many Uses
-- Because...
-- What might prevent me from doing well in this class...
+## IT75 - Python for Many Uses
+I am taking this class because Python is a popular programming language in many of the research labs in the Cognitive Science field. While my primary goal is to become a healthcare provider, I understand people change their careers on an average of 7 times in their life! Also, I love learning new things, and enjoy computer programming. This class will be a nice break from chemistry and biology.
+
+I honestly believe there is not much that will prevent me from doing well in this class because I have the determination to succeed. The only thing that could prevent me from doing well is an unplanned emergency.
