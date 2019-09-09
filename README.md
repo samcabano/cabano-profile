@@ -1,12 +1,6 @@
 ## Who I Am
 
-<p align="left">
-  <img src="portfolio.jpg" class="center"> 
-</p>
-
-<p align="right">
-  I am a student and healthcare worker with a passion for health, research, human-computer interaction, and computers. The most important thing in my life is improving myself and the daily lives of those around me, by means of education and encouragement. I pride myself on the energy and dedication I bring to each new project I take on, regardless of the field. An interesting thing about me is I love travelling, cats, and coffee!
-</p>
+<img src="portfolio.jpg"> I am a student and healthcare worker with a passion for health, research, human-computer interaction, and computers. The most important thing in my life is improving myself and the daily lives of those around me, by means of education and encouragement. I pride myself on the energy and dedication I bring to each new project I take on, regardless of the field. An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Education
 
