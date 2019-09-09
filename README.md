@@ -2,13 +2,13 @@
 
 <img src="portfolio.jpg" align="left" style="padding: 10px"> 
 
-> First off, you can call me Sam! I am a student and healthcare worker with a passion for health, research, and human-computer interaction. 
-> 
-> The most important thing in my life is improving myself and the daily lives of those around me, by means of education and encouragement. 
-> 
-> I pride myself on the energy and dedication I bring to each new project I take on, regardless of the field. 
-> 
-> An interesting thing about me is I love travelling, cats, and coffee!
+First off, you can call me Sam! I am a student and healthcare worker with a passion for health, research, and human-computer interaction. 
+
+The most important thing in my life is improving myself and the daily lives of those around me, by means of education and encouragement. 
+
+I pride myself on the energy and dedication I bring to each new project I take on, regardless of the field. 
+
+An interesting thing about me is I love travelling, cats, and coffee!
 
 
 
@@ -18,7 +18,7 @@
 
 ###### UC San Diego
 - Cognitive Science, BS
-    - Focus: Human-Computer Interaction, Data Analysis and Research, Neurology
+    - Focus: Human-Computer Interaction, Data Analysis, Neurology
 - Psychology Minor
 - Interned in Speech Pathology and Counselling
 
