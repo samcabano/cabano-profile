@@ -18,7 +18,9 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ###### UC San Diego
 - Cognitive Science, BS
-    - Focus: Human-Computer Interaction, Data Analysis, Neurology
+    - Human-Computer Interaction
+    - Data Analysis
+    - Neurology
 - Psychology Minor
 - Interned in Speech Pathology and Counselling
 
