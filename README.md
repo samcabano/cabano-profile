@@ -3,7 +3,7 @@ My name is Samantha Cabano.
 
 ![](portfolio.jpg)
 
-<img src="paris.jpg" align="center">
+<img src="portfolio.jpg" align="center">
 
 Insert hyperlink...
 Most important thing in my life...
