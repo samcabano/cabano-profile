@@ -3,6 +3,13 @@ My name is Samantha Cabano.
 
 <img src="portfolio.jpg" align="center">
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 Insert hyperlink...
 Most important thing in my life...
 Something interesting about myself...
