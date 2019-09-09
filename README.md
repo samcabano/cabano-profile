@@ -1,16 +1,17 @@
 ## Hello!
 My name is Samantha Cabano. 
 
-<img src="portfolio.jpg" align="center">
+<img src="portfolio.jpg" class="center">
 
 Insert hyperlink...
 Most important thing in my life...
 Something interesting about myself...
 
 ## College Experience
+
 #### University of California, San Diego
-- Cognitive Science, BS
-- Psychology Minor
+> Cognitive Science, BS
+> Psychology Minor
 
 #### University College Cork, Ireland
 - Human Development
