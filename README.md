@@ -14,6 +14,7 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 <img src="UCSD.jpg" align="right" style="padding: 10px">
 #### University of California, 
+
 #### San Diego
 - Cognitive Science, BS
 - Psychology Minor
