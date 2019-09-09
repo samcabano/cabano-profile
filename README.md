@@ -1,4 +1,4 @@
-## Who I Am
+## About Me
 
 <img src="portfolio.jpg" align="right" style="padding: 10px"> My name Sam! I am a student and healthcare worker with a passion for health, research, human-computer interaction, and computers. 
 
