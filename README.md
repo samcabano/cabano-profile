@@ -53,8 +53,9 @@ I am taking this class because Python is a popular programming language in many 
 I honestly believe there is not much that will prevent me from doing well in this class because I have the determination to succeed. The only thing that could prevent me from doing well is an unplanned emergency.
 
 ##### Projects
-[Fundamentals of Programming in Python](https://samcabano.github.io/python_fundamentals/)
-[Internet of Things](https://samcabano.github.io/IoT/)
-[Secure Scripting](https://samcabano.github.io/secure_scripting/)
-[Data Analytics](https://samcabano.github.io/data_analytics/)
-[Python Hackathon](https://samcabano.github.io/python_hackathon/)
+
+1. [Fundamentals of Programming in Python](https://samcabano.github.io/python_fundamentals/)
+2. [Internet of Things](https://samcabano.github.io/IoT/)
+3. [Secure Scripting](https://samcabano.github.io/secure_scripting/)
+4. [Data Analytics](https://samcabano.github.io/data_analytics/)
+5. [Python Hackathon](https://samcabano.github.io/python_hackathon/)
