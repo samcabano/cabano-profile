@@ -3,19 +3,19 @@ My name is Samantha Cabano.
 
 ![](portfolio.jpg)
 
-<img src="portfolio.jpg" class="center">
+<img src="paris.jpg" align="center">
 
 Insert hyperlink...
 Most important thing in my life...
 Something interesting about myself...
 
 ## College Experience
-#### UCSD
-- Major: Cognitive Science
-- Minor: Psychology
+#### University of California, San Diego
+- Cognitive Science, BS
+- Psychology Minor
 
 #### University College Cork, Ireland
-- Focus: Human Development and Human-Computer Interaction
+- Human Development and Human-Computer Interaction
 
 #### Sierra College
 - Pre-med Requirements
