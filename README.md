@@ -11,6 +11,7 @@ Something interesting about myself...
 
 #### University of California, San Diego
 > Cognitive Science, BS
+
 > Psychology Minor
 
 #### University College Cork, Ireland
