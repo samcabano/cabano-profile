@@ -14,7 +14,7 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Education
 
-<img src="UCSD.jpg" align="right">
+<img src="UCSD.jpg" align="right" margin= 10px>
 
 ###### UC San Diego
 - Cognitive Science, BS
@@ -31,16 +31,16 @@ An interesting thing about me is I love travelling, cats, and coffee!
 
 ## Computer Experience
 
-<img src="comp.png" align="left">
+<img src="comp.png" align="left" margin= 10px>
 
 #### Coursework
 
 ###### Introduction to Programming
-    - C++
-    - MATLAB
+- C++
+- MATLAB
 
 ###### Usability and Information Architecture
-    - HTML and web-design
+- HTML and web-design
 
 ###### Modeling and Data Analysis
 
