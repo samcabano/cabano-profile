@@ -10,22 +10,22 @@ Most important thing in my life...
 
 Something interesting about myself...
 
-### College Experience
+## College Experience
 
-# UCSD
+### UCSD
 Major: Cognitive Science
 Minor: Psychology
 
-# University College Cork, Ireland
+### University College Cork, Ireland
 Focus: Human Development and Human-Computer Interaction
 
-# Sierra College
+### Sierra College
 - Pre-health
 
 
-### Computer Experience
+## Computer Experience
 
-# Programming Experience
+### Programming Experience
 I have taken classes in the following topics:
 - Introduction to Programming
   - C++
@@ -37,8 +37,8 @@ I have taken classes in the following topics:
 - Microsoft Excel
 
 
-### Python
+## Python
 
-# Why I am taking Python for Many Uses
+### Why I am taking Python for Many Uses
 
 What might prevent me from doing well in this class
