@@ -5,7 +5,7 @@ I am a student and healthcare worker with a passion for health, research, human-
   <img src="portfolio.jpg" class="center">
 </p>
 
-## College Experience
+## Education
 
 #### University of California, San Diego
 - Cognitive Science, BS
