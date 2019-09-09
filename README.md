@@ -22,8 +22,7 @@ Something interesting about myself...
 
 
 ## Computer Experience
-#### Programming Experience
-I have taken classes in the following topics:
+#### Coursework
 - Introduction to Programming
   - C++
   - MATLAB
